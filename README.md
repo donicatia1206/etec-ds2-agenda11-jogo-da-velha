@@ -28,7 +28,7 @@ O projeto foca na personalização da interface gráfica utilizando gradiente de
 ## 📹 Vídeo de Demonstração e Explicativo do Código
 
 🎥 **Assista ao vídeo explicativo:**  
-`[COLE_AQUI_O_LINK_DO_SEU_VIDEO_DO_YOUTUBE]`
+`[https://youtu.be/px7wMYtMRFY?si=_oLHXBPd3caNOwWH]`
 
 ---
 
